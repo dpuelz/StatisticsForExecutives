@@ -8,7 +8,7 @@ Teaching Assistants:
 - Askand Kumar, full-time MBA. Email: Askand.Kumar@mba.utexas.edu.
 
 ## Homeworks
-- [HW1](homeworks/HW1.pdf)
+- [Homework 1](homeworks/HW1.pdf)
 
 ## Readings
 - [Differential privacy at Apple](https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/)
@@ -18,19 +18,19 @@ Teaching Assistants:
 ## Topics
 
 ### (1) Introduction & data visualization
-- [intro slides](slides/intro.pdf)
-- [data viz slides](slides/datavis.pdf)
+- [Intro slides](slides/intro.pdf)
+- [Data viz slides](slides/datavis.pdf)
 
 ### (2) Probability
-- [probability slides](slides/probability.pdf)
+- [Probability slides](slides/probability.pdf)
 
 ### (3) Portfolios
-- [portfolio slides](slides/portfolios.pdf)
+- [Portfolio slides](slides/portfolios.pdf)
 
-### (4) Learning from Data: Estimation, uncertainty, & testing
-- [uncertainty slides](slides/modeling_uncertainty.pdf)
+### (4) Learning from data: Estimation, uncertainty, & testing
+- [Uncertainty slides](slides/modeling_uncertainty.pdf)
 
 ### (5) Regression
-- simple linear regression slides TBP (to be posted)
-- multiple linear regression slides TBP
-- advanced regression topics TBP
+- Simple linear regression slides TBP (to be posted)
+- Multiple linear regression slides TBP
+- Advanced regression topics TBP
