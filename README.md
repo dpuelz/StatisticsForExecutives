@@ -5,20 +5,32 @@ Instructor:
 - David Puelz.  Office hours by appointment. Email: david.puelz@mccombs.utexas.edu.
 
 Teaching Assistants:
-- Lokesh Kumar, full-time MBA. Email: Lokesh.Kumar@mba.utexas.edu.
+- Askand Kumar, full-time MBA. Email: Askand.Kumar@mba.utexas.edu.
 
 ## Homeworks
+- [HW1](homeworks/HW1.pdf)
 
 ## Readings
+- [Differential privacy at Apple](https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/)
+- [Regression to the mean](readings/regression_to_the_mean.pdf)
+- [Contraceptive effectiveness and independence](readings/AIQ_excerpt_contraceptive_effectiveness.pdf)
 
 ## Topics
 
-### (1) Introduction
+### (1) Introduction & data visualization
+- [intro slides](slides/intro.pdf)
+- [data viz slides](slides/datavis.pdf)
 
 ### (2) Probability
+- [probability slides](slides/probability.pdf)
 
 ### (3) Portfolios
+- [portfolio slides](slides/portfolios.pdf)
 
-### (4) Uncertainty
+### (4) Learning from Data: Estimation, uncertainty, & testing
+- [uncertainty slides](slides/modeling_uncertainty.pdf)
 
 ### (5) Regression
+- simple linear regression slides TBP (to be posted)
+- multiple linear regression slides TBP
+- advanced regression topics TBP
