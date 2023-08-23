@@ -2,10 +2,10 @@
 Welcome to the Fall 2023 edition of Statistics for Executives, the core statistics course in the EMBA program at UT McCombs. All course materials can be found on this GitHub page.  Please see the [course syllabus](syllabus.pdf) for detailed course description and expectations.
 
 Instructor:  
-- David Puelz.  Office hours by appointment. Email: david.puelz@mccombs.utexas.edu.
+- David Puelz.  Office hours Wednesdays from 2-3p (zoom) and by appointment. Email: david.puelz@mccombs.utexas.edu.
 
-Teaching Assistants:
-- Askand Kumar, full-time MBA. Email: Askand.Kumar@mba.utexas.edu.
+Teaching Assistant:
+- TBA.
 
 ## Homeworks
 - [Homework 1](homeworks/HW1.pdf)
