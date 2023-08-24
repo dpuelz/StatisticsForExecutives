@@ -11,6 +11,7 @@ Teaching Assistant:
 - [Homework 1](homeworks/HW1.pdf)
 
 ## Readings
+- [Rich State, Poor State, Red State, Blue State](http://www.stat.columbia.edu/~gelman/research/published/rb_qjps.pdf) and a shorter prelude to this article, [Gelman's blog](https://statmodeling.stat.columbia.edu/2005/11/07/income_matters/).
 - [Differential privacy at Apple](https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/)
 - [Regression to the mean](readings/regression_to_the_mean.pdf)
 - [Contraceptive effectiveness and independence](readings/AIQ_excerpt_contraceptive_effectiveness.pdf)
