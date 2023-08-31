@@ -8,7 +8,7 @@ Teaching Assistant:
 - TBA.
 
 ## Homeworks
-- [Homework 1](homeworks/HW1.pdf)
+- [Homework 1](homeworks/HW1.pdf); [Homework 1 solutions](homeworks/HW1_solutions.pdf)
 
 ## Readings
 - [Rich State, Poor State, Red State, Blue State](http://www.stat.columbia.edu/~gelman/research/published/rb_qjps.pdf) and a shorter prelude to this article, [Gelman's blog](https://statmodeling.stat.columbia.edu/2005/11/07/income_matters/).
