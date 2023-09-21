@@ -31,12 +31,13 @@ Teaching Assistant:
 
 ### (3) Portfolios
 - [Portfolio slides](slides/portfolios.pdf)
-- Excel examples: [portfolio of projects](excel/portfolio_example.xlsx) and [Tesla v. Ford](excel/tesla_vs_ford_example.xlsx)
+	- Excel examples: [portfolio of projects](excel/portfolio_example.xlsx) and [Tesla v. Ford](excel/tesla_vs_ford_example.xlsx)
 
 ### (4) Learning from data: Estimation, uncertainty, & testing
 - [Uncertainty slides](slides/modeling_uncertainty.pdf)
 
 ### (5) Regression
 - [Simple linear regression slides](slides/SLR.pdf)
+	- Examples: [ERCOT](data/ercot.xls), [beauty](data/BeautyData.csv), [beers](data/nbeer.xls), [cars](data/cars_big.csv)
 - Multiple linear regression slides TBP
 - Advanced regression topics TBP
