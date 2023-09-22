@@ -9,6 +9,7 @@ Teaching Assistant:
 
 ## Homeworks
 - [Homework 1](homeworks/HW1.pdf); [Homework 1 solutions](homeworks/HW1_solutions.pdf)
+- [Homework 2](homeworks/HW2.pdf)
 
 ## Final Project
 - [Final Project](finalproject/finalproject_fall2023.pdf) 
@@ -38,6 +39,6 @@ Teaching Assistant:
 
 ### (5) Regression
 - [Simple linear regression slides](slides/SLR.pdf)
-	- Examples: [ERCOT](data/ercot.xls), [beauty](data/BeautyData.csv), [beers](data/nbeer.xls), [cars](data/cars_big.csv)
+	- Examples: [ERCOT](data/ercot.xls), [beauty](data/pretty-profs.csv), [beers](data/nbeer.xls), [cars](data/cars_big.csv)
 - Multiple linear regression slides TBP
 - Advanced regression topics TBP
