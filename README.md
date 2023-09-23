@@ -4,9 +4,6 @@ Welcome to the Fall 2023 edition of Statistics for Executives, the core statisti
 Instructor:  
 - David Puelz.  Office hours Wednesdays from 2-3p (zoom) and by appointment. Email: david.puelz@mccombs.utexas.edu.
 
-Teaching Assistant:
-- TBA.
-
 ## Homeworks
 - [Homework 1](homeworks/HW1.pdf); [Homework 1 solutions](homeworks/HW1_solutions.pdf)
 - [Homework 2](homeworks/HW2.pdf)
