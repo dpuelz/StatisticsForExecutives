@@ -36,6 +36,8 @@ Instructor:
 
 ### (5) Regression
 - [Simple linear regression slides](slides/SLR.pdf)
-	- Examples: [ERCOT](data/ercot.xls), [beauty](data/pretty-profs.csv), [beers](data/nbeer.xls), [cars](data/cars_big.csv)
+	- Examples: [ERCOT](data/ercot.xls), [beauty](data/BeautyData.csv), [beers](data/nbeer.xls), [cars](data/cars_big.csv)
 - [Multiple linear regression](slides/MLR.pdf)
+	- Examples: [stock market data](data/Apple_Intel_Safeway.xls)
 - [Dummy variables](slides/dummies.pdf)
+	- Examples: [OkCupid](data/okcupid.xlsx)
