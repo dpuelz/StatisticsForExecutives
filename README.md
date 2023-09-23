@@ -40,5 +40,5 @@ Teaching Assistant:
 ### (5) Regression
 - [Simple linear regression slides](slides/SLR.pdf)
 	- Examples: [ERCOT](data/ercot.xls), [beauty](data/pretty-profs.csv), [beers](data/nbeer.xls), [cars](data/cars_big.csv)
-- Multiple linear regression slides TBP
-- Advanced regression topics TBP
+- [Multiple linear regression](slides/MLR.pdf)
+- [Dummy variables](slides/dummies.pdf)
