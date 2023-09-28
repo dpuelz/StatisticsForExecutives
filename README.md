@@ -6,7 +6,7 @@ Instructor:
 
 ## Homeworks
 - [Homework 1](homeworks/HW1.pdf); [Homework 1 solutions](homeworks/HW1_solutions.pdf)
-- [Homework 2](homeworks/HW2.pdf)
+- [Homework 2](homeworks/HW2.pdf); [Homework 2 solutions](homeworks/HW2_solutions.pdf)
 
 ## Final Project
 - [Final Project](finalproject/finalproject_fall2023.pdf) 
